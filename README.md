@@ -1,0 +1,1 @@
+File Extension Converter, changes the extensions of the specified files in the specified folder.
